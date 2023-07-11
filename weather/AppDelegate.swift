@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  weather
 //
-//  Created by Дина Черных on 11.07.23.
+//  Created by Дина Черных on 25.02.23.
 //
 
 import UIKit
